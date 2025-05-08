@@ -35,7 +35,7 @@
    - and then `console.log()` the correct message to the console.
 4. BONUS: Remember that paramaters are optional, and no `name` or `age` value could be passed in. Correctly account for no parameter being passed in.
 
-## Exercise 3: Which Quadrant?
+## Exercise 3: Which Quadrant? - BONUS QUESTION
 
 Write a function that receives two parameters, x and y coordinates in
 the Cartesian plane, and prints out a message indicating if the point (x, y) lies on either the x or y axis,
@@ -47,7 +47,7 @@ the Cartesian plane, and prints out a message indicating if the point (x, y) lie
  - (1, 2) is in Quadrant 1
  - (-6, 18) is in Quadrant 2
 
-## Exercise 4: What type of triangle?
+## Exercise 4: What type of triangle? - BONUS QUESTION
 
 Write a function that receives three numbers that represent the lengths of a triangles three sides. If the three
 sides do not form a valid triangle (the sum of two sides should always be greater than the length of the third side),
@@ -59,8 +59,8 @@ For example:
 - Sides 1, 2, 2 make an isosceles triangle
 - Sides 1, 1, 2 make an invalid triangle
 
-## Exercise 5: Data Plan Status
-
+## Exercise 5: Data Plan Status  - BONUS QUESTION
+ 
 Write a function that will display feedback on cell phone data usage. Cell phone
 plans for this particular company give you a certain amount of data every 30 days
 which must be used or they are lost (no rollover). We want to track the average amount of data
